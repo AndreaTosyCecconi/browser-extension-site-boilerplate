@@ -1,8 +1,28 @@
 /* insert you css */
-.description {
-	font-size: 30px;
+
+
+body {
+	background-color: #FAFAFA;
+	font-family: helvetica, sans-serif;
 }
 
-h1{
-	font-size: 60px;
+marquee {
+	font-size: 45px;
+	background-color: white;
+	overflow: hidden;
+}
+
+.card {
+	margin-top: 70px;
+}
+
+.card-text {
+	font-size: 25px;
+}
+
+.card-header {
+	background-color: white;
+}
+.card-body {
+	background-color: #efefef;
 }
